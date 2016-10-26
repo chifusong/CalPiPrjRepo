@@ -4,7 +4,7 @@ public class CalPi {
 		float hit=0;
 		float total=0;
 		
-		
+		System.out.println("CalPi start");
 		
 		while(true) {
 			float x=(float) Math.random()*2 - 1;	
